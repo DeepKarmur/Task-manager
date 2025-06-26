@@ -123,5 +123,6 @@ npm install
 🔹 Create environment file .env
 REACT_APP_API_URL=http://localhost:5000/api
 
-🔹 Start the frontend application
+🔹 Start the frontend application: npm start
+
 📍 Frontend runs at: http://localhost:3000
