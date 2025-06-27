@@ -50,7 +50,7 @@ app.use(cors({
     'http://localhost:3000', // for local development
     'http://localhost:3001', // alternative local port
     'https://localhost:3000', // for local development with https
-    'https://task-manager-pi-ruddy-31.vercel.app',
+    'https://task-manager-pi-ruddy-31.vercel.app', 
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
